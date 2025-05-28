@@ -512,6 +512,7 @@ cc_prebuilt_library_shared {
             shared_libs: [
                 "libutils",
                 "libcutils",
+                "libcodec2_shim",
                 "liblog",
                 "libcodec2_vndk",
                 "libqcodec2_base",
